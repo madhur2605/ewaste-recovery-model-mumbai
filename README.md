@@ -6,11 +6,9 @@
 
 ## 🔍 Overview
 
-Mumbai generates thousands of tonnes of e-waste annually, yet formal recovery rates remain critically low. This working paper proposes a **credit-based incentive mechanism** that bridges the gap between informal collectors, formal recyclers, and urban local bodies — making high-value material recovery economically viable, socially inclusive, and environmentally positive.
+Mumbai generates thousands of tonnes of e-waste annually, yet formal recovery rates remain critically low. This working paper proposes a **credit-based incentive mechanism** that bridges the gap between informal collectors, formal recyclers, and urban local bodies — making high-value material recovery economically viable, socially inclusive, and environmentally positive. Credit-based incentive model for e-waste material recovery in Mumbai — Circular Economy · ESG · SDG 7/11/12/13 · Presented at IIT Bombay
 
 The model draws on circular economy principles and aligns with **SDG 7, 11, 12, and 13**.
-
-> ⚠️ *This is a working paper.*
 
 ---
 
@@ -25,5 +23,3 @@ The model draws on circular economy principles and aligns with **SDG 7, 11, 12, 
 ## 📬 Contact
 
 For collaboration or more info — **madhur.arya26@gmail.com**
-
----
