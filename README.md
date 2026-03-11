@@ -24,23 +24,6 @@ The model draws on circular economy principles and aligns with **SDG 7, 11, 12, 
 
 ## 📬 Contact
 
-For collaboration or more info — **madhur.arya260@gmail.com**
-```
+For collaboration or more info — **madhur.arya26@gmail.com**
 
-```
-Credit-based incentive model for e-waste material recovery in Mumbai — Circular Economy · ESG · SDG 7/11/12/13 · Presented at IIT Bombay
-```
-
-**Topics:**
-```
-ewaste
-sustainability
-mumbai
-sdg
-esg
-working-paper
-material-recovery
-energy-transition
-energy-security
-urban-policy
-iit-bombay
+---
